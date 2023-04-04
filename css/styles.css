@@ -1,3 +1,9 @@
+body{
+    display: block;
+    margin: 8px;
+    background-color: #393E46;
+}
+
 h1{
     margin: 30px 30px;
     font-size:  8rem;
@@ -15,9 +21,12 @@ h1{
     color:#4ECCA3;
     margin: 30px 0;
     font-size: 2rem;
-    font-family: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    display: inline-block;
 }
 
 footer{
     text-align: center;
+    color: #EEEEEE;
+    font-family:'Indie Flower', cursive;
 }
