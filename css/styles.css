@@ -1,0 +1,23 @@
+h1{
+    margin: 30px 30px;
+    font-size:  8rem;
+    color: #4ECCA3;
+    font-family: 'Lobster',cursive;
+    text-shadow: 5px 0 #232931;
+
+}
+
+
+.first_container{
+    text-align: center;
+}
+.dice{
+    color:#4ECCA3;
+    margin: 30px 0;
+    font-size: 2rem;
+    font-family: #4ECCA3;
+}
+
+footer{
+    text-align: center;
+}
